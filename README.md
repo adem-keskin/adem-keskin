@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adem Keskin</h1>
 <h3 align="center">Full Stack Automation Engineer -- A Software Development Engineer in Test</h3>
-![Banner](/Users/macbookpro/Desktop.jpeg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
