@@ -1,16 +1,22 @@
 <img src="https://github.com/adem-keskin/adem-keskin/blob/main/WhatsApp%20Image%202023-03-12%20at%2003.49.54.jpeg.jpg?raw=true">
-<h1 align="center">Hello from Germany 👋 </h1>
+<h2 align="center">Hello from Germany 👋 </h2>
 
 ##   💫 About Me:
 
-<h3 align="center">I ´m a JAVA Fan, I ´m curruntly work on a new Project with Selenium - Cucumber Framework, software automation testing is so much fun...</h3>
+<h3 align="center">I ´m a JAVA Fan, I ´m curruntly work on a new Project with Selenium - Cucumber Framework, software test development is so much fun </h3>
+
+
 
 <p align="left"></p>
 
 
-##  Languages and Tools   💻   Tech Stack:
+
+##   💻   Tech Stack:  Languages and Tools  
+
+
 
 <p align="left">
+  
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
@@ -20,7 +26,10 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
+
 <br> 
+
+
 
 
 
@@ -35,6 +44,7 @@
 ![Github](https://img.shields.io/badge/github-%23ED8B00.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
+
 
 
 ##  GitHub Stats:
