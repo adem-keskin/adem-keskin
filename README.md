@@ -1,7 +1,8 @@
 <img src="https://github.com/adem-keskin/adem-keskin/blob/main/WhatsApp%20Image%202023-03-12%20at%2003.49.54.jpeg.jpg?raw=true">
 <h2 align="center">Hello from Germany 👋 </h2>
 
-##   💫 About Me:
+##   💫 About Me:    
+  <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.17342682713_asid.137892267275_crid.600353195418_kw.linked%20in_d.c_tid.kwd-1131147195_n.g_mt.e_geo.9044175" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a> 
 
 <h3 align="center">I ´m a JAVA Fan, I ´m curruntly work on a new Project with Selenium - Cucumber Framework, software test development is so much fun </h3>
 
