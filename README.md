@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-   <a href="[https://cucumber.com](https://media.trustradius.com/product-logos/OG/zr/TQ4TZNO528PZ-180x180.PNG)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getcucumber/getcucumber-icon.svg" alt="cucumber" width="40" height="40"/></a>
+   <a href="https://cucumber.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getcucumber/getcucumber-icon.svg" alt="cucumber" width="40" height="40"/></a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://wac-cdn.atlassian.com/dam/jcr:50ec4e7f-6d95-4993-8dc2-3c521e66dfe8/jira-app-icon-1.svg?cdnVersion=836" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a> 
