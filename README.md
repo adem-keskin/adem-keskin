@@ -1,8 +1,10 @@
 <img src="https://github.com/adem-keskin/adem-keskin/blob/main/WhatsApp%20Image%202023-03-12%20at%2003.49.54.jpeg.jpg?raw=true">
-<h1 align="center">Hi 👋, I'm Adem Keskin</h1>
-<h3 align="center">Full Stack Automation Engineer -- A Software Development Engineer in Test</h3>
+<h1 align="center">Hello from Germany 👋 </h1>
 
-<h3 align="left">Connect with me:</h3>
+##   💫 About Me:
+
+<h3 align="center">I ´m a JAVA Fan, I ´m curruntly work on a new Project with Selenium - Cucumber Framework, software automation testing is so much fun...</h3>
+
 <p align="left">
 </p>
 
@@ -16,11 +18,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
+<br> 
 
-# 💫 About Me:
-Hi , I am Adem Keskin.<br> 
-
-# 💻 Tech Stack:
+##  💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%23ED8B00.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/cucumber-%23ED8B00.svg?style=for-the-badge&logo=cucumber&logoColor=white)
@@ -31,7 +31,7 @@ Hi , I am Adem Keskin.<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
 
-# 📊 GitHub Stats:
+##  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/apiusername=ademkeskin&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adem-keskin&theme=blue-green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adem-keskin&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
