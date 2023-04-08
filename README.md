@@ -1,4 +1,4 @@
-<img src="https://github.com/adem-keskin/adem-keskin/blob/main/W/Users/macbookpro/Desktop">
+<img src="https://github.com/adem-keskin/adem-keskin/blob/main/Bildschirmfoto%202023-04-08%20um%2022.22.37.png?raw=true">
 <h2 align="center">Hello from Germany 👋 </h2>
 
 ###   * About Me:    
