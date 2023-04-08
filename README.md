@@ -2,9 +2,27 @@
 <h3 align="center">Hello from Germany 👋 </h3>
 
 ###   * About Me:    
-  <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.17342682713_asid.137892267275_crid.600353195418_kw.linked%20in_d.c_tid.kwd-1131147195_n.g_mt.e_geo.9044175" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a> 
+  <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.17342682713_asid.137892267275_crid.600353195418_kw.linked%20in_d.c_tid.kwd-1131147195_n.g_mt.e_geo.9044175" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> </a> 
 
-<h3 align="center">I ´m a JAVA Fan, I ´m curruntly work on a new Project with Selenium - Cucumber Framework  </h3>
+<h3 align="center">I'm a Java-Fan...  I´m curruntly work on a new Project with Selenium - Cucumber Framework  </h3>
+<p align="justify">
+Software Development Engineer in Test
+
+  *Carried out Manual Testing
+
+  *Involved in Unit testing the code
+
+  *Experienced in writing SQL queries
+
+  *Experienced inworking in agile environment
+
+  *Actively participated in preparation of Test Cases and Test Scripts
+
+  *Developed test case and executed test cases for creating diffrent vouchers
+
+
+</p>
+
 
 
 
@@ -12,22 +30,25 @@
 
 
 
-##   * 💻   Tech Stack :  Languages and Tools  
+
+###   * 💻   Tech Stack :  Languages and Tools  
+
 
 
 
 <p align="left">
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-   <a href="https://www.cucumber.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-original.svg" alt="cucumber" width="40" height="40"/> </a> 
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://www.cucumber.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/> </a>  
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://wac-cdn.atlassian.com/dam/jcr:50ec4e7f-6d95-4993-8dc2-3c521e66dfe8/jira-app-icon-1.svg?cdnVersion=836" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  
+  </p>
 
 <br> 
 
@@ -49,7 +70,8 @@
 
 
 
-##  * GitHub Stats:
+
+###  * GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/apiusername=ademkeskin&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adem-keskin&theme=blue-green&hide_border=false)
@@ -58,4 +80,4 @@
 ---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
