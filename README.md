@@ -62,15 +62,15 @@
 
 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/selenium-%23ED8B00.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/cucumber-%23ED8B00.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![Java](https://img.shields.io/badge/java-6495ED.svg?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-778899.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/cucumber-1997B5&.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%230A0FFF.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-FF0000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-%23ED8B00.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-0000FF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/git-FF6347.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-00BFFF.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
