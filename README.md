@@ -1,4 +1,4 @@
-<img src="https://github.com/adem-keskin/adem-keskin/blob/main/Grey%20Brown%20Minimalist%20Enterpreneur%20Email%20Header%20(3).jpg?raw=true">
+<img src="https://github.com/adem-keskin/adem-keskin/edit/main/README.md#:~:text=Software-,Development,-Engineer%20in%20Test.png">
 <h3 align="center">Hello from Germany 👋 </h3>
 
 ###   * About Me:    
