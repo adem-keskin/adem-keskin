@@ -1,4 +1,4 @@
-<img src="Software Development Engineer in Test.png">
+<img src="Software Development Engineer in Test.jpg">
 <h3 align="center">Hello from Germany 👋 </h3>
 
 ###   * About Me:    
