@@ -45,6 +45,7 @@
   
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.cucumber.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://wac-cdn.atlassian.com/dam/jcr:50ec4e7f-6d95-4993-8dc2-3c521e66dfe8/jira-app-icon-1.svg?cdnVersion=836" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -65,9 +66,9 @@
 ![Selenium](https://img.shields.io/badge/selenium-%23ED8B00.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/cucumber-%23ED8B00.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%230A0FFF.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%230A0FFF.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23ED8B00.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
