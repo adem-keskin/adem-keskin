@@ -1,4 +1,4 @@
-<img src="https://github.com/adem-keskin/adem-keskin/edit/main/README.md#:~:text=Software-,Development,-Engineer%20in%20Test.png">
+<img src="Software Development Engineer in Test.png">
 <h3 align="center">Hello from Germany 👋 </h3>
 
 ###   * About Me:    
