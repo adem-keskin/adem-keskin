@@ -9,7 +9,7 @@
   
 <ul>
     
-  <li>Carried out Manual Testing
+  <li>Carried out Manual and Automation Testing
 
   <li>Involved in Unit testing the code
 
