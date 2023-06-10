@@ -11,8 +11,6 @@
     
   <li>Carried out Manual and Automation Testing
 
-  <li>Involved in Unit testing the code
-
   <li>Experienced in writing SQL queries
     
   <li>Software Development Engineer in Test
