@@ -1,4 +1,5 @@
-<img src="https://github.com/adem-keskin/adem-keskin/blob/main/Software%20Development%20Engineer%20in%20Test.jpg?raw=true">
+<img src="https://github.com/adem-keskin/adem-keskin/blob/main/Bildschirmfoto%202023-07-26%20um%2020.22.07.png">
+
 <h3 align="center">Hello from Germany 👋 </h3>
 
 ###   * About Me:    
